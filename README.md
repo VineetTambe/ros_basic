@@ -1,2 +1,2 @@
 # ros_basics
-Implementation of basic concepts of ROS
+This package contains implementation of basic concepts of ROS
